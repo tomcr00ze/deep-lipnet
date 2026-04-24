@@ -3,3 +3,4 @@
 - To be Implemented a lip-reading model (LipNet architecture) combining CNNs and sequence models
 (RNN/CTC) for visual speech recognition.
 - Modeled spatiotemporal dependencies in video data using sequence learning techniques.
+- Explored CTC loss for alignment-free sequence prediction, addressing variable-length input-output mapping.
