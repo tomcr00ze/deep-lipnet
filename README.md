@@ -4,3 +4,4 @@
 (RNN/CTC) for visual speech recognition.
 - Modeled spatiotemporal dependencies in video data using sequence learning techniques.
 - Explored CTC loss for alignment-free sequence prediction, addressing variable-length input-output mapping.
+- Conducted experiments on video-to-text transcription in low-resolution and noisy inputs.
